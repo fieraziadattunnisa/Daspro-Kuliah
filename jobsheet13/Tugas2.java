@@ -71,7 +71,7 @@ public class Tugas2 {
                 }
             }
         }
-
+        
         System.out.println("Mahasiswa dengan nilai tertinggi adalah mahasiswa ke-" + (mahasiswaDenganNilaiTertinggi + 1) + " dengan nilai " + nilaiTertinggi + " pada minggu ke-" + mingguNilaiTertinggi);
     }
 }
