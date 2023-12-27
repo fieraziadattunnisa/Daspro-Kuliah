@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Kelompok {
     static Scanner scanner = new Scanner(System.in);
     static String nama = "";
