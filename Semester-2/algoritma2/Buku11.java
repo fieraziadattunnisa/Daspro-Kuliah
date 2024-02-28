@@ -51,8 +51,8 @@ public class Buku11 {
 
         int hitungDiskon() {
             if (harga > 150000) {
-                diskon = totalharga * (12/100);
-                return 15;
+               diskon = totalharga * (2/100);
+               return 15;
             } else if (harga > 75000) {
                 diskon = totalharga * (5/100);
                 return 5;
@@ -66,5 +66,11 @@ public class Buku11 {
             hargaBayar = totalharga - diskon;
             return hargaBayar;
         }
+
+        public double hitungHarga() {
+            return harga * stok;
+        }
+        
+        
     }
 
