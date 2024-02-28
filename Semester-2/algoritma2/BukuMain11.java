@@ -1,4 +1,3 @@
-package algoritma2;
 
 public class BukuMain11 {
     public static void main(String[] args) {
