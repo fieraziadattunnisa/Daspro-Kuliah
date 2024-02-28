@@ -1,4 +1,4 @@
-package algoritma3;
+
 
 import java.util.Scanner;
 public class ArrayObjects2 {

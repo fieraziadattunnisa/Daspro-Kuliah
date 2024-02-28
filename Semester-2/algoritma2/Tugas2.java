@@ -1,4 +1,4 @@
-package algoritma2;
+
 
 public class Tugas2 {
     int x , y, width, height;

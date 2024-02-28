@@ -1,4 +1,4 @@
-package algoritma3;
+
 
 public class ArrayObjects {
     static class PersegiPanjang {

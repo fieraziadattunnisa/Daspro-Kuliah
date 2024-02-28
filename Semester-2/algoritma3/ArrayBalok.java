@@ -1,5 +1,3 @@
-package algoritma3;
-
 public class ArrayBalok {
     static class Balok{
         public int panjang;
