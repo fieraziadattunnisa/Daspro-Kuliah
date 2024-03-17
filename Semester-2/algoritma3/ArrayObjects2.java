@@ -1,5 +1,3 @@
-
-
 import java.util.Scanner;
 public class ArrayObjects2 {
     static class PersegiPanjang {

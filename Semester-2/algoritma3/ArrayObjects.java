@@ -1,11 +1,11 @@
-
-
 public class ArrayObjects {
     static class PersegiPanjang {
-
+    
     public int panjang;
     public int lebar;
 
+    }
+    
     public static void main(String[] args) {
         PersegiPanjang[] ppArray = new PersegiPanjang[3];
 
@@ -25,5 +25,4 @@ public class ArrayObjects {
         System.out.println("Persegi Panjang ke-0, panjang: " + ppArray[1].panjang + ", lebar: " + ppArray[1].lebar);
         System.out.println("Persegi Panjang ke-0, panjang: " + ppArray[2].panjang + ", lebar: " + ppArray[2].lebar);
     }
-}
 }
